@@ -11,42 +11,42 @@ information from them, and interacted with various people to raise awareness.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/JamiRohit/Eye-Donation/assets/101118628/b6218ee3-2e1a-446c-9e62-aaca85ff4d90)
-                                      fig.1 Home Page
+                                      Fig.1 Home Page
 
 
 
 
 
 ![image](https://github.com/JamiRohit/Eye-Donation/assets/101118628/d3656d87-af9a-4ede-a544-cf5b01c1c73f)
-                                fig.2 Statistics of Eye Donations
+                                Fig.2 Statistics of Eye Donations
 
 
 
 
 
 ![image](https://github.com/JamiRohit/Eye-Donation/assets/101118628/194051f8-7f31-40e8-9112-e644b40d23e6)
-                                  fig.3 Get Involved Section
+                                  Fig.3 Get Involved Section
 
 
 
 
 
 ![image](https://github.com/JamiRohit/Eye-Donation/assets/101118628/76905659-0f14-4ad3-bba7-0ebd0fded335)
-                                fig.4 Learn About Donations Section
+                                Fig.4 Learn About Donations Section
 
 
 
 
 
 ![image](https://github.com/JamiRohit/Eye-Donation/assets/101118628/2517b6b3-0b2f-4db7-9387-e6098c2f3ddb)
-                                    fig.5 Life Stories Section
+                                    Fig.5 Life Stories Section
 
 
 
 
 
 ![image](https://github.com/JamiRohit/Eye-Donation/assets/101118628/3287d2f9-63b9-45b3-b320-992d2ca46c0e)
-                            fig.6 Frequently Asked Questions(FAQ) Section
+                            Fig.6 Frequently Asked Questions(FAQ) Section
 
 
 
@@ -54,6 +54,6 @@ information from them, and interacted with various people to raise awareness.
 
 
 ![image](https://github.com/JamiRohit/Eye-Donation/assets/101118628/af02fbac-3f07-47b8-9dbb-9813bd31b11e)
-                        fig.7 Member Registration as Eye Donor 
+                        Fig.7 Member Registration as Eye Donor 
 (After clicking Register to Eye Donation, It will redirect to official ebai
 (Eye Bank Association of India)).
